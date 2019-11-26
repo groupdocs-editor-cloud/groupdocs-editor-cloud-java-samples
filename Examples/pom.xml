@@ -7,7 +7,7 @@
     <repository>
 	    <id>groupdocs-artifact-repository</id>
 	    <name>GroupDocs Artifact Repository</name>
-	    <url>https://repository-qa.groupdocs.cloud/repo</url>
+	    <url>https://repository.groupdocs.cloud/repo</url>
 	</repository>
 </repositories>
  <dependencies>  	
