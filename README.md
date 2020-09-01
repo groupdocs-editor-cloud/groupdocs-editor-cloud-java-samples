@@ -16,10 +16,4 @@ Directory | Description
 --------- | -----------
 [Examples](Examples)  | A collection of Java Cloud SDK examples that help you learn the product features
 
-## Resources
-
-+ **Website:** [www.groupdocs.cloud](http://www.groupdocs.cloud)
-+ **Product Home:** [GroupDocs.Editor Cloud SDK for Java](https://products.groupdocs.cloud/editor/java)
-+ **Documentation:** [GroupDocs.Editor Cloud SDK Documentation](https://docs.groupdocs.cloud/display/editorcloud/Home)
-+ **Free Support:** [GroupDocs.Editor Cloud SDK Free Support Forum](https://forum.groupdocs.cloud/c/editor)
-+ **Blog:** [GroupDocs.Editor Cloud SDK Blog](https://blog.groupdocs.cloud/category/editor)
+[Home](https://www.groupdocs.cloud/) | [Product Page](https://products.groupdocs.cloud/editor/java) | [Docs](https://docs.groupdocs.cloud/editor/) | [Demos](https://products.groupdocs.app/editor/family) | [API Reference](https://apireference.groupdocs.cloud/editor/) | [Source Code](https://github.com/groupdocs-editor-cloud/groupdocs-editor-cloud-java) | [Blog](https://blog.groupdocs.cloud/category/editor/) | [Free Support](https://forum.groupdocs.cloud/c/editor) | [Free Trial](https://purchase.groupdocs.cloud/trial)
