@@ -12,8 +12,26 @@ This repository contains [Examples](Examples) projects for [GroupDocs.Editor Clo
   </a>
 </p>
 
-Directory | Description
---------- | -----------
-[Examples](Examples)  | A collection of Java Cloud SDK examples that help you learn the product features
+## Prerequisites
+
++ Java SE Development Kit 8
++ GroupDocs.Editor Cloud SDK for Java.
+
++ Get your ClientId and ClientSecret at [https://dashboard.groupdocs.cloud](https://dashboard.groupdocs.cloud) (free registration is required).
+
+## How to Run the Examples
+
+The package contains Java examples. Follow the given steps to proceed with project build:
+
++ Extract the downloaded project
++ Open project in your IDE
++ Edit Common.java and put ClientId and ClientSecret, obtained from https://dashboard.groupdocs.cloud there
++ Build and Run
+
+For more details, visit  [Getting Started](https://docs.groupdocs.cloud/editor/getting-started/)
+
+## Licensing
+
+All GroupDocs.Editor Cloud SDKs are licensed under [MIT License](LICENSE).
 
 [Home](https://www.groupdocs.cloud/) | [Product Page](https://products.groupdocs.cloud/editor/java) | [Docs](https://docs.groupdocs.cloud/editor/) | [Demos](https://products.groupdocs.app/editor/family) | [API Reference](https://apireference.groupdocs.cloud/editor/) | [Source Code](https://github.com/groupdocs-editor-cloud/groupdocs-editor-cloud-java) | [Blog](https://blog.groupdocs.cloud/category/editor/) | [Free Support](https://forum.groupdocs.cloud/c/editor) | [Free Trial](https://purchase.groupdocs.cloud/trial)
